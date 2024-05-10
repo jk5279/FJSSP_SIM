@@ -1,0 +1,9 @@
+{
+  "data_args" : {
+    "data_dir": "data/debug_test/Small"
+  },
+
+  "sim_args" : {
+    "debug_mode": true
+  }
+}
