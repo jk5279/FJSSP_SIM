@@ -1,6 +1,9 @@
 # FJSSP_SIM
 Flexible Job Shop Simulator for Minimizing Overtime Work Costs
 
+## Data is from
+Deliktaş, D., Özcan, E., Ustun, O., & Torkul, O. (2024). A benchmark dataset for multi-objective flexible job shop cell scheduling. Data in Brief, 52, 109946.
+
 ## Installation
 
 To set up the necessary environment:
